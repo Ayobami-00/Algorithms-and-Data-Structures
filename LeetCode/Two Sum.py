@@ -1,5 +1,8 @@
 #TWO SUM
 
+#link to question
+'https://leetcode.com/problems/two-sum/'
+
 #SolutionOne
 """
 This is a brute-force solution but it is slow.
